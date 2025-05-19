@@ -7,7 +7,7 @@ To set up and reproduce the Python environment for this project, follow these st
 1. **Clone the repository:**
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Meronmeron/solar-challenge-week1..git
    cd solar-challenge
    ```
 
